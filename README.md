@@ -68,7 +68,7 @@ Snapcraft itself has first-class support as a snap. On snap-ready systems, you c
 
 ```bash
 sudo snap install snapcraft --classic
-```
+``` 
 
 For complete installation, you need an additional Linux container tool. Snapcraft can
 also be installed as a traditional package on many popular Linux repositories. If you
